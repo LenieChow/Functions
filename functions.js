@@ -98,3 +98,4 @@ return Math.pow(multiply,c);
 console.log(long2(5,3,2));
 
  // output [225]
+ // h
